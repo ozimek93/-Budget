@@ -1,0 +1,13 @@
+D:\dot net\2 Tydzień\praca domowa tydz 2\Budżet\Budżet\bin\Debug\netcoreapp3.1\Budżet.exe
+D:\dot net\2 Tydzień\praca domowa tydz 2\Budżet\Budżet\bin\Debug\netcoreapp3.1\Budżet.deps.json
+D:\dot net\2 Tydzień\praca domowa tydz 2\Budżet\Budżet\bin\Debug\netcoreapp3.1\Budżet.runtimeconfig.json
+D:\dot net\2 Tydzień\praca domowa tydz 2\Budżet\Budżet\bin\Debug\netcoreapp3.1\Budżet.runtimeconfig.dev.json
+D:\dot net\2 Tydzień\praca domowa tydz 2\Budżet\Budżet\bin\Debug\netcoreapp3.1\Budżet.dll
+D:\dot net\2 Tydzień\praca domowa tydz 2\Budżet\Budżet\bin\Debug\netcoreapp3.1\Budżet.pdb
+D:\dot net\2 Tydzień\praca domowa tydz 2\Budżet\Budżet\obj\Debug\netcoreapp3.1\Budżet.csprojAssemblyReference.cache
+D:\dot net\2 Tydzień\praca domowa tydz 2\Budżet\Budżet\obj\Debug\netcoreapp3.1\Budżet.AssemblyInfoInputs.cache
+D:\dot net\2 Tydzień\praca domowa tydz 2\Budżet\Budżet\obj\Debug\netcoreapp3.1\Budżet.AssemblyInfo.cs
+D:\dot net\2 Tydzień\praca domowa tydz 2\Budżet\Budżet\obj\Debug\netcoreapp3.1\Budżet.csproj.CoreCompileInputs.cache
+D:\dot net\2 Tydzień\praca domowa tydz 2\Budżet\Budżet\obj\Debug\netcoreapp3.1\Budżet.dll
+D:\dot net\2 Tydzień\praca domowa tydz 2\Budżet\Budżet\obj\Debug\netcoreapp3.1\Budżet.pdb
+D:\dot net\2 Tydzień\praca domowa tydz 2\Budżet\Budżet\obj\Debug\netcoreapp3.1\Budżet.genruntimeconfig.cache
